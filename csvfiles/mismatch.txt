@@ -1,0 +1,1 @@
+Mismatch found for row with key DMV|1. Value in first file: DMV|DMV|Dropped|1902|1|HEADNECK|Head/Neck|GENERAL|NORMAL|1|Visit 1|2012-05-16|, Value in second file: DMV|DMV|Dropped|2011|1|GENAPP|General Appearance|GENERAL|NORMAL|1|Visit 1|2012-05-16|

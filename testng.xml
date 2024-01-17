@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="selenium.studies.TestScreenshotAshot"/>
+      <class name="selenium.studies.TestKeyBoardActions"/>
+      <class name=".TestClassSampleSalesForce"/>
+      <class name=".TestClassSample"/>
+      <class name="selenium.studies.TestCheckboxes"/>
+      <class name="selenium.studies.TestWebTables"/>
+      <class name="selenium.studies.TestMyListener"/>
+      <class name="selenium.studies.TestIframes"/>
+      <class name="selenium.studies.TestJSAlertsHandling"/>
+      <class name="selenium.studies.TestDropdown"/>
+      <class name=".TestClassSampleSalesForce2"/>
+      <class name="selenium.studies.TestTabsPopups"/>
+      <class name=".RelativeLocatorsCheck"/>
+      <class name="selenium.studies.TestScreenshot"/>
+      <class name="imp.LoginTestcases.LoginTestcase"/>
+      <class name="selenium.studies.TestMouseActions"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
