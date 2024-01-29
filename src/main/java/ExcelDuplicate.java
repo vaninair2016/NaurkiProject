@@ -10,7 +10,7 @@ import java.util.Map;
 
 public class ExcelDuplicate {
 	 public static void main(String[] args) throws Exception {
-	        File f = new File(System.getProperty("user.dir") + "\\csvfiles\\Data Query AnalysisQuerydetails.xlsx");
+	        File f = new File(System.getProperty("user.dir") + "\\csvfiles\\Subject Data Review_ECG.xlsx");
 	        FileInputStream fis = new FileInputStream(f);
 	        Workbook wb = WorkbookFactory.create(fis);
 	        Sheet sheet0 = wb.getSheetAt(0);
